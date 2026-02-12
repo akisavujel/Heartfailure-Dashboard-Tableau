@@ -1,8 +1,7 @@
 # ❤️ Heart Failure Survival Analysis Dashboard (Tableau)
 
 ## 📌 Project Overview  
-This project presents an interactive **Heart Failure Survival Analysis Dashboard** built using **Tableau**.  
-The dashboard explores key clinical factors affecting patient survival and provides visual insights into mortality trends.
+This project presents an interactive **Heart Failure Survival Analysis Dashboard** built using **Tableau**.   The dashboard explores key clinical factors affecting patient survival and provides visual insights into mortality trends.
 
 The analysis is based on a dataset of **299 patients**, focusing on medical attributes such as age, diabetes, smoking, serum creatinine, ejection fraction, and more.
 
