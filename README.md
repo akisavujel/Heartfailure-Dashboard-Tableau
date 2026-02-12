@@ -1,5 +1,12 @@
 # ❤️ Heart Failure Survival Analysis Dashboard (Tableau)
 
+## 🌐 Live Dashboard
+
+View the full interactive dashboard on Tableau Public:
+
+🔗 **Tableau Public Link:**  
+https://public.tableau.com/app/profile/akisha.bhujel/viz/Book1_17708742326480/Dashboard1?publish=yes
+
 ## 📌 Project Overview  
 This project presents an interactive **Heart Failure Survival Analysis Dashboard** built using **Tableau**.   The dashboard explores key clinical factors affecting patient survival and provides visual insights into mortality trends.
 
@@ -52,13 +59,6 @@ The dashboard analyzes survival trends based on:
 - Perform exploratory data analysis on healthcare data  
 - Present insights using clear and structured visualizations  
 - Strengthen data storytelling abilities
-
-## 🌐 Live Dashboard
-
-View the full interactive dashboard on Tableau Public:
-
-🔗 **Tableau Public Link:**  
-https://public.tableau.com/app/profile/akisha.bhujel/viz/Book1_17708742326480/Dashboard1?publish=yes
 
 ## 👩‍💻 Author
 
